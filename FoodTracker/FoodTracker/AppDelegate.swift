@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by Yu, Lydia on 6/16/17.
+//  Created by Yu, Lydia on 7/17/17.
 //  Copyright © 2017 Yu, Lydia. All rights reserved.
 //
 
